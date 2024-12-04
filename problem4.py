@@ -19,6 +19,7 @@ print("질병 코드 목록:")
 for code, name in diseases.items():
     print(f"{code}: {name}")
 print("ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ")
+
 # 환자 정보 입력
 patients = {}
 for i in range(5):
